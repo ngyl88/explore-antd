@@ -1,0 +1,14 @@
+.gutter-example .ant-row-flex {
+  padding: 5px 10px;
+  background: black;
+}
+.gutter-example .ant-row-flex > div {
+  background: transparent;
+  border: 0;
+}
+.gutter-box {
+  background: #00a0e9;
+  color: black;
+  padding: 5px 0;
+  text-align: center;
+}
